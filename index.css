@@ -1,0 +1,102 @@
+.zombee_skeleton{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.img_skeleton{
+    width: 300px;
+    height: 300px;
+}
+.img_zombee{
+    width: 300px;
+    height: 300px;
+}
+.zombee{
+    background-color: rgb(93, 210, 214);
+}
+.skeleton{
+   background-color: rgb(93, 210, 214);
+}
+span{
+    color: red;
+    font-size: 18px;
+}
+body{
+    font-family: Noto Sans, sans-serif;
+    background-color: rgb(31, 65, 214);
+}
+p{
+    text-align: center;
+}
+.img_sheep{
+    width: 150px;
+    height: 150px;
+}
+.img_pig{
+    width: 150px;
+    height: 150px;
+}
+.img_rabbit{
+    width: 150px;
+    height: 150px;
+}
+.img_cow{
+    width: 150px;
+    height: 150px;
+}
+.all2{
+    display: flex;
+    justify-content: space-around;
+}
+.sheep{
+    width: 150px;
+    background-color: rgb(93, 210, 214);
+}
+.pig{
+   width: 150px;
+   background-color: rgb(93, 210, 214); 
+}
+.rabbit{
+    width: 150px;
+    background-color: rgb(93, 210, 214);
+}
+.cow{
+    width: 150px;
+    background-color: rgb(93, 210, 214);
+}
+.all2{
+    margin-top: 20px;
+}
+.viser{
+    background-color: rgb(93, 210, 214);
+    width: 350px; 
+    padding-bottom: 10px;
+    
+}
+.img_viser{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.boss{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.dracon{
+    background-color: rgb(93, 210, 214);
+    width: 350px;
+}
+.img_dracon{
+    text-align: center;
+    margin-left: 50px;
+}
+.raid{
+    background-color: rgb(93, 210, 214);
+    margin-top: 20px;
+    text-align: center;
+}
+.img_raid{
+    height: 200px;
+    text-align: center;
+}
